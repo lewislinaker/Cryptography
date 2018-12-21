@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dh:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dh_jar</output-path>
+    <root id="archive" name="dh.jar">
+      <element id="module-output" name="dh" />
+    </root>
+  </artifact>
+</component>

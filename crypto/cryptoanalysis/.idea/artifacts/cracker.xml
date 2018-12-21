@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/cracker</output-path>
+    <root id="archive" name="cracker.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/cryptoanalysis/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
